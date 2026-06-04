@@ -308,7 +308,7 @@
       pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
     }
     const SUPABASE_URL = 'https://uzlookrotanpwpgsemmc.supabase.co';
-    const SUPABASE_PUBLISHABLE_KEY = 'PASTE_YOUR_NEW_SUPABASE_PUBLISHABLE_KEY_HERE';
+    const SUPABASE_PUBLISHABLE_KEY = 'sb_publishable_4g3vX6SokaP6vI8d1d-Hqg_A9ZBOjkd';
     const supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY);
 
     const RECIPE_WORKER_URL = 'https://recipe-extractor.mason-mccloskey.workers.dev/';
